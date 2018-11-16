@@ -1,0 +1,1 @@
+The goal of this assignment was to gain knowledge working with threads and to learn how threads can cause errors inside your programs if you do not lock and unlock them. We were provided with skeleton code and tasked with creating the simulate.c file.
